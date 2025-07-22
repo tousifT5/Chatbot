@@ -1,0 +1,8 @@
+.env
+Projects/
+Projects/Chatbot
+__pycache__/
+Chatbot
+venv/
+.env
+project.db
